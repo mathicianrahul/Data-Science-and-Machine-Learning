@@ -8,7 +8,7 @@
 
 ## 📌 About This Repository
 
-This is an evolving learning repository where I:
+This is an evolving learning repository where I♡:
 
 - Learn Machine Learning concepts
 - Implement them practically
